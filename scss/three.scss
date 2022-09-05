@@ -1,0 +1,31 @@
+.three{
+    // background-color: aqua;
+    width: 100%;
+    .photo{
+        
+
+        .men{
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+
+        .texttwo{
+            width: 500px;
+            
+        }
+        }
+
+        .women{
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        .texttwo{
+            width: 500px;
+         
+        }
+
+        }
+        
+
+    }
+}
